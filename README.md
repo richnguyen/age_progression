@@ -30,5 +30,5 @@ You got to show your result image by printing it. Now go and get on with it!
 Other Resources
 ---
 
-You can find the original webpage of this project [here][http://fcl.uncc.edu/nhnguye1/ageprogression.html]
+You can find the original webpage of this project [here](http://fcl.uncc.edu/nhnguye1/ageprogression.html)
 
