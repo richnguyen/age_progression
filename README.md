@@ -1,4 +1,4 @@
-Age-Progression-via-Image-Morphing
+Age-Progression
 ==================================
 
 Your whole life span in 10 seconds.
