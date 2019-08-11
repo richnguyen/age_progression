@@ -19,6 +19,8 @@ Key Features
 
 The project is implemented in MATLAB. The software, called Age Progression Manipulator, is developed as the result of the method. Age Progression Manipulator offers a couple of features in which users can experience. Below is a few key features that is available:
 
+![Interface of AgeProgression](https://www.cs.virginia.edu/~nn4pj/AP_interface.jpg)
+
 ### Interactive input
 You will get to decide how should Bruce looks when he was young or when he would have got older. It's all up to your creativity to morphing the images.
 ### Two blendnig modes
@@ -32,5 +34,5 @@ You got to show your result image by printing it. Now go and get on with it!
 Other Resources
 ---
 
-You can find the original webpage of this project [here](http://fcl.uncc.edu/nhnguye1/ageprogression.html)
+You can find the original webpage of this project [here](https://www.cs.virginia.edu/~nn4pj/ageprogression.html)
 
