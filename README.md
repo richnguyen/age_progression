@@ -3,7 +3,7 @@ Age-Progression
 
 Your whole life span in 10 seconds.
 
-[![Age Progression Image](https://img.youtube.com/vi/ThC7NwHRknA/0.jpg)](https://www.youtube.com/watch?v=ThC7NwHRknA "Age Progression Image")
+[![Age Progression Image](https://www.cs.virginia.edu/~nn4pj/AP_sample.jpg)](https://www.youtube.com/watch?v=ThC7NwHRknA "Age Progression Image")
 
 Introduction
 ---
