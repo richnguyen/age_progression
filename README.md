@@ -3,7 +3,7 @@ Age-Progression
 
 Your whole life span in 10 seconds.
 
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+[![Audi R8](https://cs.virginia.edu/~nn4pj/AP_sample.jpg)](https://www.youtube.com/watch?v=ThC7NwHRknA)
 
 
 Introduction
